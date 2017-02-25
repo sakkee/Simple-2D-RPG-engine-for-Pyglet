@@ -1,6 +1,7 @@
 menu_background.jpg: dklon
 Other tilesets: Lanea Zimmerman
-Pyglet-gui and the theme: Conrad "Lynx" Wong, Jorge C. Leit„o
+Pyglet-gui and the theme: Conrad "Lynx" Wong, Jorge C. Leit√£o
 coin_pick.mp3: wobbleboxx.com
 menumusic.mp3: https://soundcloud.com/alexandr-zhelanov
 forest.mp3: syncopika
+coin_gold.png: Clint Bellanger for Liberated Pixel Art
